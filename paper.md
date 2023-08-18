@@ -1,5 +1,5 @@
 ---
-title: 'Example 2: Simplifying scientific software in Python'
+title: 'Example 3: Simplifying scientific software in Python'
 
 tags:
   - python
